@@ -243,25 +243,25 @@ h3::after {
 }
 
 .bg1 {
-    background: url(Images/img1.jpg) no-repeat center center;
+    background: url(images/img1.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 18px;
 }
 
 .bg2 {
-    background: url(Images/cc.jpg) no-repeat center center;
+    background: url(images/cc.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 18px;
 }
 
 .bg3 {
-    background: url(Images/img3.jpg) no-repeat center center;
+    background: url(images/img3.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 18px;
 }
 
 .bg4 {
-    background: url(Images/img4.jpg) no-repeat center center;
+    background: url(images/img4.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 18px;
 }
